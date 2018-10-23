@@ -1,2 +1,2 @@
 # furyos-pics
-Picture Hosting.
+Picture Hosting and data hosting for misc projects.
